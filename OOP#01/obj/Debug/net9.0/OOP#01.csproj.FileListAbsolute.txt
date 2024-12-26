@@ -1,0 +1,14 @@
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.AssemblyInfoInputs.cache
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.AssemblyInfo.cs
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.csproj.CoreCompileInputs.cache
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\bin\Debug\net9.0\OOP#01.exe
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\bin\Debug\net9.0\OOP#01.deps.json
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\bin\Debug\net9.0\OOP#01.runtimeconfig.json
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\bin\Debug\net9.0\OOP#01.dll
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\bin\Debug\net9.0\OOP#01.pdb
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.dll
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\refint\OOP#01.dll
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.pdb
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\OOP#01.genruntimeconfig.cache
+C:\Users\islam\OneDrive\Desktop\OOP#01\OOP#01\obj\Debug\net9.0\ref\OOP#01.dll
